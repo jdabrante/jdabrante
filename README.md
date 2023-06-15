@@ -17,7 +17,7 @@
 
 <div align = "center">
 
-<img src="https://komarev.com/ghpvc/?username=jdabrante&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jdabrante"/>
+<img src="https://komarev.com/ghpvc/?username=jdabrante&label=Profile%20views&color=0eb6a3&style=for-the-badge" alt="jdabrante"/>
 
 </div>
 
