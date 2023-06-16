@@ -25,7 +25,7 @@
 
 
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jdabrante&theme=transparent&card_width=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jdabrante&theme=transparent&card_width=300)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jdabrante&show_icons=true&theme=transparent&card_width=200)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdabrante&theme=transparent&layout=donut&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
 
