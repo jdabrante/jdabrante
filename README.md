@@ -1,7 +1,7 @@
 <div align="center">
   
-### Hi! I'm Dimas 👋 
-### ✨Welcome to my profile✨
+# Hi! I'm Dimas 👋 
+# ✨Welcome to my profile✨
   
 </div>
 
