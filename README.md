@@ -5,14 +5,14 @@
   
 </div>
 
-## About me 👇:
+## About me 👇
 
 - 👨‍💻 I am a web application development student
 - 📚 Self-taught to learn new technologies
 - 🧪 Science lover
 - 🌱 Nature lover
 
-## 🔨 Languages and Tools:
+## 🔨 Languages and Tools
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
