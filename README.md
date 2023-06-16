@@ -1,9 +1,16 @@
 <div align="center">
   
 ### Hi! I'm Dimas 👋 
-### Welcome to my profile 👨‍💻
+### ✨Welcome to my profile✨
   
 </div>
+
+## About me 👇:
+
+- 👨‍💻 I am a web application development student, eager to learn more and more about this fantastic world of programming.
+- 🌱 Nature lover
+- 📚 Self-taught to learn new things related to programming
+- 🧪 Science lover
 
 ## My stats ⚡️
 
