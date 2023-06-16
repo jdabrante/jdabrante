@@ -1,10 +1,9 @@
 <div align="center">
   
-# Hi! I'm Dimas 👋 
-  
 <img src="https://media.giphy.com/media/lp0DId2tBtguHbT5dr/giphy.gif" width = "100"/>
   
-# ✨Welcome to my profile✨ 
+# Hi! I'm Dimas 👋 
+
 </div>
 
 ## About me 👇
