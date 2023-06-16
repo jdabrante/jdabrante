@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://media.giphy.com/media/lp0DId2tBtguHbT5dr/giphy.gif" width = "100"/>
+<img src="https://media.giphy.com/media/lp0DId2tBtguHbT5dr/giphy.gif" width = "150"/>
   
 # Hi! I'm Dimas 👋 
 
