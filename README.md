@@ -15,6 +15,14 @@
 
 ## Tools I am studying 🔨
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+
+## Tools I know how to use 👨‍💻
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
@@ -24,13 +32,9 @@
 
 ## My stats ⚡️
 
-
-  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jdabrante&theme=transparent&card_width=300)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jdabrante&show_icons=true&theme=transparent&card_width=200)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdabrante&theme=transparent&layout=donut&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <div align = "center">
 
