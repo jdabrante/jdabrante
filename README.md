@@ -8,7 +8,7 @@
 
 ## About me 👇
 
-- 👨‍💻 I am a web application development student
+- 👨‍💻 I am a web developer student
 - 📚 Self-taught to learn new technologies
 - 🧪 Science lover
 - 🌱 Nature lover
